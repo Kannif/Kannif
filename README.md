@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunny
+- 👋 Hi, I’m @Kannif
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning bachelor in computer application
 - 💞️ I’m looking to collaborate on ...
